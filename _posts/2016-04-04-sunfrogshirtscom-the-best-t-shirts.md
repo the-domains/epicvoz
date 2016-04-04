@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.sunfrog.com/search/index.cfm?cId=17&search=Bernie%20S
 inLanguage: null
 starred: false
 keywords: []
-description: 'Welcome to SunFrog! Shop t-shirts. Choose from over 2,000,000 unique tees. Sunfrog has a large selection of shirt styles. Satisfaction guaranteed.'
-datePublished: '2016-04-04T23:10:46.972Z'
-dateModified: '2016-04-04T23:07:36.645Z'
+description: Check out some awesome Bernie Sanders t shirts here ==Bernie Sanders
+datePublished: '2016-04-04T23:12:27.309Z'
+dateModified: '2016-04-04T23:10:52.729Z'
 author: []
 related: []
 app_links: []
