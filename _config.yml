@@ -1,0 +1,28 @@
+name: EpicVoz
+favicon: null
+layout_spectrum: 0.8788610780611634
+typography_spectrum: 0.8720507933758199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.11927918670699
+  lightness: 0.821438041748479
+  saturation: 0.35064736916683614
+  rhythmicContrast: 0.39090113365091383
+purpose: []
